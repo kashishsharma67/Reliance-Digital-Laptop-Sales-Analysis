@@ -44,7 +44,7 @@ The database was organized into five tables:
 See `04_Database_Design` for the ER diagram.
 
 ## Project Structure
-- [Reliance_Workflow_with challanges](01_Project_Overview/Reliance_Workflow_with challanges.pdf)
+- `01_Project_Overview`
 - `02_Dataset`
 - `03_Data_Cleaning`
 - `04_Database_Design`
