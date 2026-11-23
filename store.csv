@@ -1,0 +1,66 @@
+SRC_ID,StoreID,StoreName,StoreCity,StoreState,Region,Dealername
+1,RD-STR-1006,Reliance Digital - Thane Galleria Store,Thane,Maharashtra,West,Pradeep Commercial Co
+2,RD-STR-1010,Reliance Digital - Udaipur Elite Store,Udaipur,Rajasthan,North,Vikas Sales Corp
+3,RD-STR-1031,Reliance Digital - Warangal Square Store,Warangal,Telangana,South,Ravi Retailers
+4,RD-STR-1045,Reliance Digital - Jabalpur Prime Store,Jabalpur,Madhya Pradesh,Central,Ajay Marketing
+5,RD-STR-1038,Reliance Digital - Vijayawada Square Store,Vijayawada,Andhra Pradesh,South,Vinod Enterprises
+6,RD-STR-1055,Reliance Digital - Nagpur Junction Store,Nagpur,Maharashtra,West,Sunil Traders
+7,RD-STR-1051,Reliance Digital - Madurai Junction Store,Madurai,Tamil Nadu,South,Ajay Enterprises
+8,RD-STR-1034,Reliance Digital - Rajkot Metro Store,Rajkot,Gujarat,West,Sanjay Traders
+9,RD-STR-1060,Reliance Digital - Bhopal Grand Store,Bhopal,Madhya Pradesh,Central,Ravi Marketing
+10,RD-STR-1025,Reliance Digital - Dehradun Walk Store,Dehradun,Uttarakhand,North,Vikas Retail Ventures
+11,RD-STR-1056,Reliance Digital - Lucknow Arcade Store,Lucknow,Uttar Pradesh,North,Ashok Commercial Co
+12,RD-STR-1019,Reliance Digital - Ludhiana Hub Store,Ludhiana,Punjab,North,Ashok Agencies
+14,RD-STR-1029,Reliance Digital - Ludhiana Point Store,Ludhiana,Punjab,North,Deepak Marketing
+15,RD-STR-1040,Reliance Digital - Chennai Junction Store,Chennai,Tamil Nadu,South,Anil Electronics
+16,RD-STR-1027,Reliance Digital - Guwahati Central Store,Guwahati,Assam,East,Vikas Agencies
+18,RD-STR-1012,Reliance Digital - Patna Metro Store,Patna,Bihar,East,Sunil Traders
+22,RD-STR-1005,Reliance Digital - Surat Walk Store,Surat,Gujarat,West,Ramesh Enterprises
+23,RD-STR-1026,Reliance Digital - Faridabad Junction Store,Faridabad,Haryana,North,Vinod Agencies
+26,RD-STR-1022,Reliance Digital - Coimbatore Mall Store,Coimbatore,Tamil Nadu,South,Suresh Distributors
+27,RD-STR-1016,Reliance Digital - Udaipur Junction Store,Udaipur,Rajasthan,North,Ashok Distributors
+28,RD-STR-1035,Reliance Digital - Nashik Grand Store,Nashik,Maharashtra,West,Suresh Commercial Co
+32,RD-STR-1014,Reliance Digital - Patna Hub Store,Patna,Bihar,East,Ashok Commercial Co
+33,RD-STR-1002,Reliance Digital - Dehradun Metro Store,Dehradun,Uttarakhand,North,Ramesh Enterprises
+34,RD-STR-1007,Reliance Digital - Howrah Grand Store,Howrah,West Bengal,East,Deepak Commercial Co
+37,RD-STR-1052,Reliance Digital - New Delhi Junction Store,New Delhi,Delhi,North,Naveen Retail Ventures
+38,RD-STR-1046,Reliance Digital - Ludhiana Plaza Store,Ludhiana,Punjab,North,Ramesh Retail Ventures
+39,RD-STR-1054,Reliance Digital - Jodhpur Mall Store,Jodhpur,Rajasthan,North,Manoj Enterprises
+45,RD-STR-1062,Reliance Digital - New Delhi Square Store,New Delhi,Delhi,North,Anil Electronics
+48,RD-STR-1001,Reliance Digital - Bhubaneswar Grand Store,Bhubaneswar,Odisha,East,Ashok Commercial Co
+50,RD-STR-1011,Reliance Digital - Jabalpur Hub Store,Jabalpur,Madhya Pradesh,Central,Anil Agencies
+51,RD-STR-1021,Reliance Digital - New Delhi Mall Store,New Delhi,Delhi,North,Pradeep Distributors
+53,RD-STR-1032,Reliance Digital - Thane Hub Store,Thane,Maharashtra,West,Ramesh Marketing
+54,RD-STR-1018,Reliance Digital - Ahmedabad Grand Store,Ahmedabad,Gujarat,West,Ramesh Sales Corp
+57,RD-STR-1042,Reliance Digital - Siliguri Hub Store,Siliguri,West Bengal,East,Pradeep Electronics
+59,RD-STR-1043,Reliance Digital - Delhi Walk Store,Delhi,Delhi,North,Suresh Electronics
+60,RD-STR-1013,Reliance Digital - Jamshedpur Arcade Store,Jamshedpur,Jharkhand,East,Ravi Commercial Co
+61,RD-STR-1015,Reliance Digital - Bhubaneswar Elite Store,Bhubaneswar,Odisha,East,Ravi Distributors
+64,RD-STR-1057,Reliance Digital - Chennai Hub Store,Chennai,Tamil Nadu,South,Ramesh Electronics
+66,RD-STR-1061,Reliance Digital - Ranchi Arcade Store,Ranchi,Jharkhand,East,Rakesh Enterprises
+68,RD-STR-1036,Reliance Digital - Surat Plaza Store,Surat,Gujarat,West,Naveen Marketing
+71,RD-STR-1039,Reliance Digital - Varanasi Square Store,Varanasi,Uttar Pradesh,North,Naveen Marketing
+72,RD-STR-1050,Reliance Digital - Jamshedpur Elite Store,Jamshedpur,Jharkhand,East,Suresh Traders
+79,RD-STR-1020,Reliance Digital - Jodhpur Mall Store,Jodhpur,Rajasthan,North,Suresh Commercial Co
+80,RD-STR-1064,Reliance Digital - Faridabad Grand Store,Faridabad,Haryana,North,Anil Distributors
+83,RD-STR-1023,Reliance Digital - Indore Arcade Store,Indore,Madhya Pradesh,Central,Deepak Sales Corp
+85,RD-STR-1047,Reliance Digital - Rajkot Arcade Store,Rajkot,Gujarat,West,Vinod Retail Ventures
+89,RD-STR-1000,Reliance Digital - Thane Elite Store,Thane,Maharashtra,West,Ajay Electronics
+96,RD-STR-1059,Reliance Digital - Howrah Grand Store,Howrah,West Bengal,East,Pradeep Sales Corp
+97,RD-STR-1049,Reliance Digital - Bhubaneswar Arcade Store,Bhubaneswar,Odisha,East,Ramesh Commercial Co
+104,RD-STR-1003,Reliance Digital - Ludhiana Plaza Store,Ludhiana,Punjab,North,Ashok Electronics
+105,RD-STR-1044,Reliance Digital - Nashik Grand Store,Nashik,Maharashtra,West,Sanjay Retailers
+114,RD-STR-1017,Reliance Digital - Mysuru Central Store,Mysuru,Karnataka,South,Anil Retail Ventures
+118,RD-STR-1041,Reliance Digital - Jamshedpur City Centre Store,Jamshedpur,Jharkhand,East,Deepak Sales Corp
+119,RD-STR-1033,Reliance Digital - Kanpur Junction Store,Kanpur,Uttar Pradesh,North,Sunil Electronics
+123,RD-STR-1048,Reliance Digital - Kolkata Arcade Store,Kolkata,West Bengal,East,Vikas Commercial Co
+124,RD-STR-1053,Reliance Digital - Amritsar Plaza Store,Amritsar,Punjab,North,Deepak Agencies
+129,RD-STR-1008,Reliance Digital - Madurai Galleria Store,Madurai,Tamil Nadu,South,Ramesh Agencies
+130,RD-STR-1004,Reliance Digital - Chandigarh City Centre Store,Chandigarh,Chandigarh,North,Manoj Sales Corp
+136,RD-STR-1037,Reliance Digital - Guwahati Plaza Store,Guwahati,Assam,East,Anil Retailers
+148,RD-STR-1028,Reliance Digital - Lucknow Central Store,Lucknow,Uttar Pradesh,North,Sunil Retail Ventures
+156,RD-STR-1024,Reliance Digital - Bhubaneswar Central Store,Bhubaneswar,Odisha,East,Sanjay Marketing
+158,RD-STR-1009,Reliance Digital - Thane Galleria Store,Thane,Maharashtra,West,Sanjay Agencies
+193,RD-STR-1063,Reliance Digital - Jabalpur Hub Store,Jabalpur,Madhya Pradesh,Central,Anil Sales Corp
+203,RD-STR-1030,Reliance Digital - Ludhiana Hub Store,Ludhiana,Punjab,North,Suresh Distributors
+239,RD-STR-1058,Reliance Digital - Ranchi Hub Store,Ranchi,Jharkhand,East,Anil Distributors
