@@ -64,8 +64,5 @@ See `04_Database_Design` for the ER diagram.
 This project was completed collaboratively by a team. All team members contributed to the project independently while sharing ideas, discussing approaches, 
 and collectively making decisions. Ideas and solutions were reviewed and implemented through mutual agreement, with the team working together throughout the project lifecycle.
 
-##Disclaimer
-This project is an independent educational/business analytics case study using simulated AI-generated data. It is not affiliated with, endorsed by, or based on actual internal data from
-Reliance Digital.
 ## Disclaimer
 This project is an independent educational/business analytics case study using simulated AI-generated data. It is not affiliated with, endorsed by, or based on actual internal data from Reliance Digital.
